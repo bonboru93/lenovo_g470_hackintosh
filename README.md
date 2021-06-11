@@ -3,9 +3,10 @@
 | Product | Lenovo g470 |
 | - | - |
 | CPU | Intel i5 2450m |
-| MEM | ADATA DDR2 2GB * 2 |
+| MEM | ADATA DDR3 1333 2GB * 2 |
 | HDD | TOSHIBA 500GB |
 | GPU | HD6370m (disabled) |
+| Ethernet | Qualcomm Atheros AR8152 |
 | WIFI | Broadcom 943224 (replaced) |
 
 # BIOS settings
